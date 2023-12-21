@@ -11,6 +11,9 @@ Resellers with interest of using our api's to do Lifecycle management of product
 In this first release, powershell will be released first, then I will release Python examples as well
 
 ## Get started
+I use postman to collect and create my requests. Then I translate requests to powershell and python.
+if you want to recieve my postman collection for total management, give me a ping.
+
 
 ## Dig in the data
 

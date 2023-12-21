@@ -8,7 +8,7 @@ Account will not work before activation is approved by ClouOps.
 
 Resellers with interest of using our api's to do Lifecycle management of products, can use my set of code to get started.
 
-In the first release, powershell will be released first, then I will release Python examples as well
+In this first release, powershell will be released first, then I will release Python examples as well
 
 ## Get started
 

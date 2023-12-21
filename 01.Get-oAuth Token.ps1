@@ -1,6 +1,6 @@
 ### Get oAuth Token from ION Portal
 $authurl = 'https://platform.url'
-$refreshToken = "R#E#F#R#E#S#H#T#O#K#E#N"
+$refreshToken = "R#E#F#R#E#S#H#T#O#K#E#N" ### GET FIrst Refresh with TTL FROM PORTAL
 $refreshTokenParams = @{ 
     grant_type    = "refresh_token"
     redirect_url  = 'https://localhost/'

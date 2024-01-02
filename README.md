@@ -1,5 +1,6 @@
 # TDS-ION-V3
 
+author: Nicklas Karlsson - Platform Manager TD SYNNEX Nordics
 A powershell repository for partners and resellers to TD SYNNEX.
 
 Important information for reseller will not be provided in this repo.
@@ -26,4 +27,3 @@ if you want to recieve updated postman collection for total management, give me 
 ## The use of Microsoft PowerPlatform
 
 
-author: Nicklas Karlsson

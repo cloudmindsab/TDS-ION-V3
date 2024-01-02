@@ -1353,7 +1353,7 @@
 		},
 		{
 			"key": "host",
-			"value": "https://ion.tdsynnex.com/v3/api",
+			"value": "https://platformurl.com/v3/api",
 			"type": "string"
 		},
 		{

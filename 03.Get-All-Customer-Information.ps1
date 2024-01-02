@@ -15,8 +15,6 @@ $accessToken = $tokenResponse.access_token          ### SAVE FOR OTHER REQUESTS
 $tokenType = $tokenResponse.token_type              ### SAVE FOR OTHER REQUESTS
 $newRefreshToken = $tokenResponse.refresh_token     ### SAVE FOR NEXT OATH REQUEST
 
-#$accessToken
-#$newRefreshToken
 
 ## Initiate Request
 $accountId = 'XXXXXXXX'  ### ACCOUNT ID IS STATED IN ACCOUNT INFORMATION

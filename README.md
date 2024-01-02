@@ -1,4 +1,5 @@
 # TDS-ION-V3
+
 A powershell repository for partners and resellers to TD SYNNEX.
 
 Important information for reseller will not be provided in this repo.
@@ -7,13 +8,12 @@ Resellers and partners that want to use the V3 API's need to activate account in
 Account will not work before activation is approved by ClouOps.
 
 Resellers with interest of using our api's to do Lifecycle management of products, can use my set of code to get started.
-
 In this first release, powershell will be released first, then I will release Python examples as well
 
 ## Get started
-I use postman to collect and create my requests. Then I translate requests to powershell and python.
-if you want to recieve my postman collection for total management, give me a ping.
 
+I use postman to collect and create my requests. Then I translate requests to powershell and python.
+if you want to recieve updated postman collection for total management, give me a ping. The fundamental postman collection and environment .json files can be found here in the postman folder.
 
 ## Dig in the data
 

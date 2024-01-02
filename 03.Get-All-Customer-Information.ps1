@@ -57,6 +57,7 @@ foreach ($cid in $customerIds) {
     $status = $ciresponse.customerStatus
     $uid = $ciresponse.uid
     $updated = $ciresponse.updateTime
+    <#
     Write-Host "****** START ******"
     Write-Host "Status: $status"
     Write-Host "Created: $created"
@@ -71,4 +72,5 @@ foreach ($cid in $customerIds) {
     Write-Host "Zip: $addressZip"
     Write-Host "Uid: $uid"
     Write-Host "****** END ******"
+    #>
 }

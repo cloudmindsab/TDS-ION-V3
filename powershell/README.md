@@ -1,7 +1,7 @@
-# TDS-ION-V3
+# TD SYNNEX - ION - API V3 - PowerShell
 
 author: Nicklas Karlsson - Platform Manager TD SYNNEX Nordics
-A repository for partners and resellers to TD SYNNEX.
+A powershell repository for partners and resellers to TD SYNNEX.
 
 Important information for reseller will not be provided in this repo.
 
@@ -18,12 +18,10 @@ if you want to recieve updated postman collection for total management, give me 
 
 ## Dig in the data
 
-## Automate execution with Azure Automation 
+## Automate execution with Azure Automation
 
 ## Push data to Azure Sql Database
 
 ## Use Azure Logic Apps
 
 ## The use of Microsoft PowerPlatform
-
-

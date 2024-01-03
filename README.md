@@ -1,6 +1,7 @@
 # TDS-ION-V3
 
 author: Nicklas Karlsson - Platform Manager TD SYNNEX Nordics
+
 A repository for partners and resellers to TD SYNNEX.
 
 Important information for reseller will not be provided in this repo.

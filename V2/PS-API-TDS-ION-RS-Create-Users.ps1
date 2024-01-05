@@ -5,11 +5,10 @@
 OWNER = Account Admin
 SALES = Sales
 OPS = Ops
-
 #>
 
 ## VARIABLES FOR RESELLER 
-$url = 'httsp://platform.url'
+$url = 'https://platform.url'
 $accountId = '#####' ## RESELLER ACCOUNT ID
 $key = '######' ## RESELLER ACCOUNT API-KEY
 $secret = '#####' ## RESELLER ACCOUNT API-SECRET
